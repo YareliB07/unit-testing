@@ -21,6 +21,7 @@ describe('AppComponent Test Suite', () => {
     const app = fixture.componentInstance;
     expect(app.title).toEqual('unit-testing');
   });
+  /*probando */
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
